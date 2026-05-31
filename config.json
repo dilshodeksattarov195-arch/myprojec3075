@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydrocess",
+        "uuid": 19258725,
+        "checksum": "mwti1p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
